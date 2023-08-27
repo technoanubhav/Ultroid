@@ -26,7 +26,7 @@
         },
         "SESSION": {
             "description": "Session String (telethon or pyrogram) for your telegram user account. The userbot will NOT work without a session string!!",
-            "value": ""
+            "value": "1BVtsOHMBu0T7KOQuy1us0GwABEOydAwHuX0aO8OEcvFuFIjuk5m213ij_bOJ_N5Z_WvjKQ6cktzc7_kJszfJsOW1_U9wi0xiV799MovsyZjT6Gu6T6ZuyjMLctu1kdiiOwca8WEIxXEijwZvfArAVoT9W3BHuuKnq8AWUgdrLJhMu9ix73i5sQACyK3lTUm8_Kts-qQ4OTMMplFwTSwvasb7qaPhoYDxvYKEzYYJUImuAeSUhhhrnYZl6qTbuTf7Tbitec8hoxxExYw-somQx7XsTjdNr-QPoxMUp439ztjYV3Fz-LgM3Lv0sss-D-EjACfkaZkCNF40kQYq3qKw3mjRpb1RM3Y="
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
